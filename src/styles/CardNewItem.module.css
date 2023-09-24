@@ -1,0 +1,26 @@
+.cardNewItem {
+  display: flex;
+  gap: 30px;
+}
+
+.cardNewItemBtn {
+  align-self: flex-end;
+}
+
+.cardNewItemImgContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.cardNewItemImg {
+  width: 200px;
+  height: 200px;
+  border-radius: 5%;
+}
+
+.cardNewItemImgName {
+  font-size: 1rem;
+  font-weight: bold;
+}

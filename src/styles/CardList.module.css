@@ -1,0 +1,11 @@
+.cardList {
+  margin: 3rem 3rem 0 3rem;
+}
+
+.cardListContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
